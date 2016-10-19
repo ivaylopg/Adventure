@@ -2,7 +2,7 @@
 
 I compiled Adventure 2.5 [from source](http://rickadams.org/adventure/e_downloads.html), and it worked, but any time I tried to load a saved game it gave me a "Checksum error" and quit. That was a bummer.
 
-Then I found the awesome 64-bit osx port of adventure by [Lobotomo](http://www.lobotomo.com/products/Adventure/), but couldn't get into the fake terminal interface. I wanted to run it my _real_ terminal.
+Then I found the awesome 64-bit osx port of adventure by [Lobotomo](http://www.lobotomo.com/products/Adventure/), but it had a simulated terminal interface and I wanted to run it my _real_ terminal. (Or maybe I wanted to just be able to drop into playing a game while still looking like I was working...)
 
 I pulled the compiled Adventure binary out of Lobotomo's app bundle and I am just using that directly. I'm pretty sure this is all kosher, given the original Adventure 2.5 license, but if anyone has a problem with this, let me know!
 
